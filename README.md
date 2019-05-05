@@ -53,4 +53,4 @@ TBD
 
 ## Contact Us
 
-Send inquiries to Sandeep Manjanna at msandeep[at]cim[dot]mcgill[dot]ca
+Send inquiries to scientific[dot]sampling[dot]robots[at]gmail[dot]com
