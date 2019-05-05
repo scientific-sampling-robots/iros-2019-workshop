@@ -53,4 +53,4 @@ TBD
 
 ## Contact Us
 
-Send inquiries to scientific[dot]sampling[dot]robots[at]gmail[dot]com
+Send inquiries to scientific.sampling.robots[at]gmail[dot]com
