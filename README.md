@@ -26,7 +26,19 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 
 ## Schedule
 
-TBD
+| Time | Description |
+| --- | --- |
+| 8:55 | Introduction and Opening Remarks |  
+| 9:00 | Invited Speaker |   
+| 9:45 | Selected Papers |   
+| 10:15 | Coffee Break and Poster Session |    
+| 11:30 | Invited Speaker |   
+| 12:15 | Lunch |   
+| 1:30 |  Invited Speaker |   
+| 2:00 | Selected Papers |   
+| 2:45 | Invited Speaker |
+| 3:30 | Coffee Break and Poster Session |    
+| 4:30 | Panel Discussion |   
 
 ## Important Dates
 
