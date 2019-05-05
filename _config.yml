@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 description: "Workshop on"
 title: "Informed Scientific Sampling in Large-scale Outdoor Environments"
-description: "IROS 2019 Macau"
+project-tagline: "IROS 2019 Macau"
 github:
   is_project_page: false
 kramdown:
