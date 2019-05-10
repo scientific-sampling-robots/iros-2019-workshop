@@ -61,7 +61,7 @@ TBD
 [Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University and Samsung AI  
 [Oscar Pizarro](https://sydney.edu.au/engineering/people/oscar.pizarro.php), The University of Sydney    
 [Johanna Hansen](johannah.github.io), McGill University  
-[Victor Zykov]()  
+[Victor Zykov](https://www.linkedin.com/in/vzykov), Cornell University  
 
 ## Contact Us
 
