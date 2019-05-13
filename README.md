@@ -22,7 +22,8 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 [Lantao Liu](http://homes.sice.indiana.edu/lantao/), Indiana University - Bloomington  
 [Mandar Chitre](http://www.chitre.net/), Tropical Marine Science Institute and the National University of Singapore  
 <!-- [Christian Katlein](http://katlein.de/), Jacobs University Bremen  -->
-<!-- [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), ETH Zurich  -->
+[Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), ETH Zurich
+[Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University
 
 ## Schedule
 
