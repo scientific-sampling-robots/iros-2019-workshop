@@ -47,7 +47,7 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 Submission deadline: TBD (Anywhere on Earth)  
 Notification: TBD  
 Camera ready: TBD  
-Workshop: TBD  
+Workshop: Nov 8, 2019 
 
 ## Submission Instructions
 
