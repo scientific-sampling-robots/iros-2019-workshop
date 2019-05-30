@@ -26,7 +26,7 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 <!-- [Christian Katlein](http://katlein.de/), Jacobs University Bremen  -->
 
 
-## Schedule
+## Schedule (tentative)
 
 | Time | Description |
 | --- | --- |
@@ -44,16 +44,12 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 
 ## Important Dates
 
-Submission deadline: TBD (Anywhere on Earth)  
-Notification: TBD  
-Camera ready: TBD  
+Submission deadline: Aug 15, 2019 (Anywhere on Earth)  
+Notification: Aug 30, 2019
+Camera ready: Sep 15, 2019
 Workshop: Nov 8, 2019 
 
 ## Submission Instructions
-
-TBD
-
-## Accepted Papers
 
 TBD
 
@@ -64,6 +60,15 @@ TBD
 [Oscar Pizarro](https://sydney.edu.au/engineering/people/oscar.pizarro.php), The University of Sydney    
 [Johanna Hansen](johannah.github.io), McGill University  
 [Victor Zykov](https://www.linkedin.com/in/vzykov), Cornell University  
+
+## Program Committee
+
+[Alberto Quattrini Li](https://sites.google.com/view/albertoq), Dartmouth College
+[Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina
+[Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University
+[Ryan N. Smith](http://www.ryannealsmith.com/), Fort Lewis College
+[Travis Manderson](http://www.cim.mcgill.ca/~travism/), McGill University
+
 
 ## Contact Us
 
