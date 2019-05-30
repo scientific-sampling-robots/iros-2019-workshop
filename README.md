@@ -54,7 +54,7 @@ Workshop: Nov 8, 2019
 
 TBD
 
-## Organizers
+## Organizing Committee
 
 [Sandeep Manjanna](https://www.cim.mcgill.ca/~msandeep/), McGill University  
 [Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University and Samsung AI  
@@ -65,9 +65,11 @@ TBD
 ## Program Committee
 
 [Alberto Quattrini Li](https://sites.google.com/view/albertoq), Dartmouth College  
-[Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina  
+[Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina 
+[Johanna Hansen](johannah.github.io), McGill University  
 [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University  
 [Ryan N. Smith](http://www.ryannealsmith.com/), Fort Lewis College  
+[Sandeep Manjanna](https://www.cim.mcgill.ca/~msandeep/), McGill University  
 [Travis Manderson](http://www.cim.mcgill.ca/~travism/), McGill University  
 
 
