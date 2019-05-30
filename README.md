@@ -22,7 +22,7 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), ETH Zurich  
 [Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University  
 [Lantao Liu](http://homes.sice.indiana.edu/lantao/), Indiana University - Bloomington  
-[Mandar Chitre](http://www.chitre.net/), Tropical Marine Science Institute and the National University of Singapore
+[Mandar Chitre](http://www.chitre.net/), Tropical Marine Science Institute and the National University of Singapore  
 <!-- [Christian Katlein](http://katlein.de/), Jacobs University Bremen  -->
 
 
@@ -45,8 +45,8 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 ## Important Dates
 
 Submission deadline: Aug 15, 2019 (Anywhere on Earth)  
-Notification: Aug 30, 2019
-Camera ready: Sep 15, 2019
+Notification: Aug 30, 2019  
+Camera ready: Sep 15, 2019  
 Workshop: Nov 8, 2019 
 
 ## Submission Instructions
@@ -63,11 +63,11 @@ TBD
 
 ## Program Committee
 
-[Alberto Quattrini Li](https://sites.google.com/view/albertoq), Dartmouth College
-[Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina
-[Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University
-[Ryan N. Smith](http://www.ryannealsmith.com/), Fort Lewis College
-[Travis Manderson](http://www.cim.mcgill.ca/~travism/), McGill University
+[Alberto Quattrini Li](https://sites.google.com/view/albertoq), Dartmouth College  
+[Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina  
+[Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University  
+[Ryan N. Smith](http://www.ryannealsmith.com/), Fort Lewis College  
+[Travis Manderson](http://www.cim.mcgill.ca/~travism/), McGill University  
 
 
 ## Contact Us
