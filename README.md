@@ -26,7 +26,8 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 <!-- [Christian Katlein](http://katlein.de/), Jacobs University Bremen  -->
 
 
-## Schedule (tentative)
+## Schedule
+(tentative)
 
 | Time | Description |
 | --- | --- |
