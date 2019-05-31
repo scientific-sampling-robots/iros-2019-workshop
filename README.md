@@ -52,7 +52,7 @@ Workshop: Nov 8, 2019
 
 ## Submission Instructions
 
-Authors can submit extended abstracts in the IROS format (2-4 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions will reviewed by experts in the field.
+Authors can submit extended abstracts in the IROS format (2-4 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions will be reviewed by experts in the field.
 
 Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FISSLOE2019)
 
