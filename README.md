@@ -52,7 +52,7 @@ Workshop: Nov 8, 2019
 
 ## Submission Instructions
 
-TBD
+We are soliciting extended abstracts in the IROS format (2-4 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions will reviewed by experts in the field.
 
 ## Organizing Committee
 
@@ -65,7 +65,7 @@ TBD
 ## Program Committee
 
 [Alberto Quattrini Li](https://sites.google.com/view/albertoq), Dartmouth College  
-[Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina 
+[Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina  
 [Johanna Hansen](johannah.github.io), McGill University  
 [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University  
 [Ryan N. Smith](http://www.ryannealsmith.com/), Fort Lewis College  
