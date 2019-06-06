@@ -23,6 +23,7 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 [Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University  
 [Lantao Liu](http://homes.sice.indiana.edu/lantao/), Indiana University - Bloomington  
 [Mandar Chitre](http://www.chitre.net/), Tropical Marine Science Institute and the National University of Singapore  
+[Robert Fitch (Tentative)](https://www.uts.edu.au/staff/robert.fitch), University of Technology, Sydney  
 <!-- [Christian Katlein](http://katlein.de/), Jacobs University Bremen  -->
 
 
@@ -67,6 +68,7 @@ Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl
 ## Program Committee
 
 [Alberto Quattrini Li](https://sites.google.com/view/albertoq), Dartmouth College  
+[David Meger](https://www.cim.mcgill.ca/~dmeger/), McGill University  
 [Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina  
 [Johanna Hansen](johannah.github.io), McGill University  
 [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University  
