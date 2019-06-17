@@ -69,6 +69,7 @@ Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl
 
 [Alberto Quattrini Li](https://sites.google.com/view/albertoq), Dartmouth College  
 [David Meger](https://www.cim.mcgill.ca/~dmeger/), McGill University  
+[Felipe Gonzalez](https://staff.qut.edu.au/staff/felipe.gonzalez), Queensland University of Technology  
 [Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina  
 [Johanna Hansen](johannah.github.io), McGill University  
 [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University  
