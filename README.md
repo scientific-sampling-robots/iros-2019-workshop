@@ -73,6 +73,7 @@ Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl
 [Ioannis Rekleitis](http://www.cse.sc.edu/~yiannisr/), University of South Carolina  
 [Johanna Hansen](johannah.github.io), McGill University  
 [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), McGill University  
+[Mandar Chitre](http://www.chitre.net/), National University of Singapore  
 [Ryan N. Smith](http://www.ryannealsmith.com/), Fort Lewis College  
 [Sandeep Manjanna](https://www.cim.mcgill.ca/~msandeep/), McGill University  
 [Travis Manderson](http://www.cim.mcgill.ca/~travism/), McGill University  
