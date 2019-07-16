@@ -65,7 +65,7 @@ Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl
 ## Organizing Committee
 
 [Sandeep Manjanna](https://www.cim.mcgill.ca/~msandeep/), McGill University  
-[Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University and Samsung AI  
+[Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University and Samsung AI Center  
 [Oscar Pizarro](https://sydney.edu.au/engineering/people/oscar.pizarro.php), The University of Sydney    
 [Johanna Hansen](johannah.github.io), McGill University  
 [Victor Zykov](https://www.linkedin.com/in/vzykov), Cornell University  
