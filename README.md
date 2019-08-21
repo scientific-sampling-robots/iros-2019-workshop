@@ -36,8 +36,8 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 
 ## Important Dates
 
-Submission deadline: Aug 30, 2019 (Anywhere on Earth)  
-Notification: Sept 15, 2019  
+Submission deadline: Sept 15, 2019 (Anywhere on Earth)  
+Notification: Sept 20, 2019  
 Camera ready: Sept 30, 2019  
 Workshop: Nov 8, 2019 
 
