@@ -27,7 +27,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 - Disaster recovery  
 - Wildlife tracking  
 - Collaborating with scientists  
-- Interpreting collected data  
+- Interpreting scientific data collected by robots  
 - Search and rescue
 
 
