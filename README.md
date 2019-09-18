@@ -14,7 +14,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 #### Field Robotics
 - Field robotic applications: aerial, urban, forest, marine, etc
 - Sensor networks
-- Creating robots for working in challenging environments 
+- Creating robotic systems for challenging environments 
 - Multi-robot coordination  
 - Large-scale mapping  
 - Mapping with scientific sensors  
