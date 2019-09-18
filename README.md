@@ -13,23 +13,22 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 
 #### Field Robotics
 - Field robotic applications: aerial, urban, forest, marine, etc
+- Designing robotic systems for challenging environments 
 - Sensor networks
-- Creating robotic systems for challenging environments 
 - Multi-robot coordination  
 - Large-scale mapping  
 - Mapping with scientific sensors  
 - Sensor fusion for robust decision-making and navigation   
 
-#### Applications
+#### Sensing Applications 
 - Pollution monitoring
 - Environment sensing  
 - Cities and humans  
+- Search and rescue  
 - Disaster recovery  
 - Wildlife tracking  
-- Collaborating with scientists  
-- Interpreting scientific data collected by robots  
-- Search and rescue
-
+- Collaborating with domain experts  
+- Interpreting and presenting scientific data 
 
 ## Important Dates
 
