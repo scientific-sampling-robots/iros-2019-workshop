@@ -5,18 +5,24 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 
 ## Topics of interest for this workshop:
 
+### Informed Sampling
 - Active sampling
 - Informed path planning
 - Trade-offs between exploration and exploitation  
 
+### Field Robotics
 - Field robotic applications: Aerial, Urban, Forest, Marine
 - Sensor networks
 - Robots in challenging environments
 - Multi-robot coordination  
 
+### Sampling Applications
 - Search and rescue
-- Environment monitoring
+- Pollution monitoring
 - Environment sensing  
+- Cities and humans  
+- Disaster recovery  
+- Wildlife tracking  
 
 ## Important Dates
 
