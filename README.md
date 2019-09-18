@@ -36,14 +36,14 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 
 ## Important Dates
 
-Submission deadline: Sept 20, 2019 (Anywhere on Earth)  
-Notification: Sept 25, 2019  
-Camera ready: Sept 30, 2019  
+Submission deadline: Oct 8, 2019 (Anywhere on Earth)  
+Notification: Oct 15 2019  
+Camera ready: Oct 25, 2019  
 Workshop: Nov 8, 2019 
 
 ## Submission Instructions
 
-Authors can submit extended abstracts in the IROS format (2-4 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions will be reviewed by experts in the field.
+Authors may submit extended abstracts or full papers in the IROS format (2-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions of recent or soon-to-be published papers (including IROS 2019) are encouraged.  Submissions will be reviewed by experts in the field.  Accepted papers will be made available through the workshop website and will be presented in the poster session.  Excellent submissions will be invited to give an oral presentation. 
 
 Topics of interest for this workshop:
 
