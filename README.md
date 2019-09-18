@@ -39,7 +39,7 @@ Workshop: Nov 8, 2019
 
 ## Submission Instructions
 
-Authors may submit extended abstracts or full papers in the IROS format (2-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions of recent or soon-to-be published papers (including IROS 2019) are encouraged.  Submissions will be reviewed by experts in the field.  Accepted papers will be made available through the workshop website and excellent submissions will be invited to present their work at the workshop on Nov 8.
+Authors may submit extended abstracts or full papers in the IROS format (2-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions of recent or soon-to-be published papers (including IROS 2019) are encouraged.  Submissions will be reviewed by experts in the field.  Accepted papers will be made available through the workshop website and will be invited to present their work at the workshop on Nov 8.
 
 Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FISSLOE2019)
 
