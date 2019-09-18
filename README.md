@@ -1,7 +1,7 @@
 ## Informed Scientific Sampling in Large-scale Outdoor Environments
 
 
-In this workshop, we aim to discuss recent progress in the field of robotic sampling for monitoring large-scale outdoor environments such as forests, bodies of water, agricultural fields, and complex urban settings.  This workshop is aimed at providing an overview of the research related to field robotics. We plan to discuss a series of research issues that span theoretical, field, and applied topics such as:  measurement acquisition and evaluation, building robust field robots, multi-robot teams, data fusion, environment monitoring. Regardless of the application, all of these tasks aim at efficient and robust information acquisition with autonomous or semi-autonomous technology.
+In this workshop, we aim to discuss recent progress in the field of robotic sampling for monitoring large-scale outdoor environments such as forests, bodies of water, agricultural fields, and complex urban settings.  This workshop is aimed at providing an overview of the research related to field robotics. We plan to discuss a series of research issues that span theoretical, design, and applied topics such as:  measurement acquisition and evaluation, building robust field robots, multi-robot teams, environmental monitoring. Regardless of the topic, all of these tasks aim at efficient and robust information acquisition with autonomous or semi-autonomous technology.
 
 ## Topics of interest for this workshop:
 
