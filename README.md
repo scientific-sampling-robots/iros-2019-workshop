@@ -1,28 +1,34 @@
 ## Informed Scientific Sampling in Large-scale Outdoor Environments
 
 
-In this workshop, we aim to discuss recent progress in the field of robotic sampling for monitoring large-scale outdoor environments such as forests, bodies of water, agricultural fields, and complex urban settings.  This workshop is aimed at providing an overview of the research related to field robotics. We plan to discuss a series of research issues that span theoretical, field, and applied topics such as:  measurement acquisition and evaluation, building robust field robots, multi-robot teams, data fusion, sensor motion, pollution monitoring, and wildlife tracking. Regardless of the application, all of these tasks aim at efficient and robust information acquisition with autonomous or semi-autonomous technology.
+In this workshop, we aim to discuss recent progress in the field of robotic sampling for monitoring large-scale outdoor environments such as forests, bodies of water, agricultural fields, and complex urban settings.  This workshop is aimed at providing an overview of the research related to field robotics. We plan to discuss a series of research issues that span theoretical, field, and applied topics such as:  measurement acquisition and evaluation, building robust field robots, multi-robot teams, data fusion, environment monitoring. Regardless of the application, all of these tasks aim at efficient and robust information acquisition with autonomous or semi-autonomous technology.
 
 ## Topics of interest for this workshop:
 
 ### Informed Sampling
 - Active sampling
 - Informed path planning
-- Trade-offs between exploration and exploitation  
+- Trade-offs between exploration and exploitation   
+- Data transfer between tasks and developing meaningful priors  
 
 ### Field Robotics
-- Field robotic applications: Aerial, Urban, Forest, Marine
+- Field robotic applications: aerial, urban, forest, marine, etc
 - Sensor networks
 - Robots in challenging environments
 - Multi-robot coordination  
+- Large-scale mapping  
+- Mapping with scientific sensors  
 
-### Sampling Applications
+### Applications
 - Search and rescue
 - Pollution monitoring
 - Environment sensing  
 - Cities and humans  
 - Disaster recovery  
 - Wildlife tracking  
+- Collaborating with scientists  
+- Scientific data analysis
+
 
 ## Important Dates
 
