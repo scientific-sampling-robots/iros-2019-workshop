@@ -18,16 +18,17 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 - Multi-robot coordination  
 - Large-scale mapping  
 - Mapping with scientific sensors  
+- Sensor fusion for robust decision-making and navigation   
 
 #### Applications
-- Search and rescue
 - Pollution monitoring
 - Environment sensing  
 - Cities and humans  
 - Disaster recovery  
 - Wildlife tracking  
 - Collaborating with scientists  
-- Scientific data analysis
+- Interpreting collected data  
+- Search and rescue
 
 
 ## Important Dates
