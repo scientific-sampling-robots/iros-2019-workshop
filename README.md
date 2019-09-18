@@ -32,7 +32,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 
 ## Important Dates
 
-Submission deadline: Oct 8, 2019 (Anywhere on Earth)  
+Submission deadline: Oct 7, 2019 (Anywhere on Earth)  
 Notification: Oct 15 2019  
 Camera ready: Oct 25, 2019  
 Workshop: Nov 8, 2019 
