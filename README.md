@@ -1,8 +1,9 @@
 ## Informed Scientific Sampling in Large-scale Outdoor Environments
 
-One of the major applications of mobile robotics is exploring and mapping an unknown environmental field. Persistent spatio-temporal maps of environmental phenomena have a critical role in understanding the interplay between the changing global conditions and human activities that might be causing these changes. Building such persistent maps of environmental fields for a given region over a period of time requires continuous sensing. This problem has been tackled previously by deploying a network of static sensor nodes uniformly across the region of interest or by conducting a uniform survey of the region. In general, however, environmental fields of interest are non-uniform over a given region and dynamic over a time period. Persistent mapping of such fields requires the mobile robots which selectively sense and are aimed at reducing cost and increasing flexibility when compared to static sensors. 
 
-In this workshop, we aim at understanding the progress in the field of robotic sampling for monitoring large-scale outdoor environments, such as forests, large water bodies, agricultural fields, and complex urban settings. We also plan to focus and learn about the challenges faced by researchers in mapping and understanding these difficult environments. This workshop is aimed at providing a complete overview of the research related to field robotics in aerial, forest, urban, and marine applications. We plan to discuss a series of research issues that include measurement collection and evaluation, communication between multiple data-sampling robots, data fusion, sensor motion, pollution monitoring, and wildlife tracking. Regardless of the applications, all these tasks aim at information acquisition.
+In this workshop, we aim to discuss recent progress in the field of robotic sampling for monitoring large-scale outdoor environments such as forests, bodies of water, agricultural fields, and complex urban settings.  This workshop is aimed at providing an overview of the research related to field robotics. We plan to discuss a series of research issues that span theoretical, field, and applied topics such as:  measurement acquisition and evaluation, building robust field robots, multi-robot teams, data fusion, sensor motion, pollution monitoring, and wildlife tracking. Regardless of the application, all of these tasks aim at efficient and robust information acquisition with autonomous or semi-autonomous technology.
+
+[comment]: <> One of the major applications of mobile robotics is exploring and mapping an unknown environmental field. Persistent spatio-temporal maps of environmental phenomena have a critical role in understanding the interplay between the changing global conditions and human activities that might be causing these changes. Building such persistent maps of environmental fields for a given region over a period of time requires continuous sensing. This problem has been tackled previously by deploying a network of static sensor nodes uniformly across the region of interest or by conducting a uniform survey of the region. In general, however, environmental fields of interest are non-uniform over a given region and dynamic over a time period. Persistent mapping of such fields requires the mobile robots which selectively sense and are aimed at reducing cost and increasing flexibility when compared to static sensors. 
 
 ## Invited Speakers
 
@@ -43,21 +44,22 @@ Workshop: Nov 8, 2019
 
 ## Submission Instructions
 
-Authors may submit extended abstracts or full papers in the IROS format (2-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions of recent or soon-to-be published papers (including IROS 2019) are encouraged.  Submissions will be reviewed by experts in the field.  Accepted papers will be made available through the workshop website and will be presented in the poster session.  Excellent submissions will be invited to give an oral presentation. 
+Authors may submit extended abstracts or full papers in the IROS format (2-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions of recent or soon-to-be published papers (including IROS 2019) are encouraged.  Submissions will be reviewed by experts in the field.  Accepted papers will be made available through the workshop website and excellent submissions will be invited to present their work at the workshop on Nov 8.
 
 Topics of interest for this workshop:
 
 - Active sampling
 - Informed path planning
+- Trade-offs between exploration and exploitation  
+
+- Field robotic applications: Aerial, Urban, Forest, Marine
 - Sensor networks
 - Robots in challenging environments
-- Marine robotic sampling
-- Field robotic applications: Aerial, Urban, Forest, Marine
-- Multi-robot coordination
-- Trade-offs between exploration and exploitation
+- Multi-robot coordination  
+
 - Search and rescue
 - Environment monitoring
-- Environment sensing
+- Environment sensing  
 
 Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FISSLOE2019)
 
