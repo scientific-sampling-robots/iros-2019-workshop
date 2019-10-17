@@ -33,8 +33,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 ## Important Dates
 
 Submission deadline: Oct 7, 2019 (Anywhere on Earth)  
-Notification: Oct 15 2019  
-Camera ready: Oct 25, 2019  
+Notification: Oct 17, 2019  
 Workshop: Nov 8, 2019 
 
 ## Submission Instructions
@@ -77,8 +76,8 @@ Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl
 
 [Sandeep Manjanna](https://www.cim.mcgill.ca/~msandeep/), McGill University  
 [Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University and Samsung AI Center  
-[Oscar Pizarro](https://sydney.edu.au/engineering/people/oscar.pizarro.php), The University of Sydney    
 [Johanna Hansen](johannah.github.io), McGill University  
+[Oscar Pizarro](https://sydney.edu.au/engineering/people/oscar.pizarro.php), The University of Sydney    
 [Victor Zykov](https://www.linkedin.com/in/vzykov), Cornell University  
 
 ## Program Committee
