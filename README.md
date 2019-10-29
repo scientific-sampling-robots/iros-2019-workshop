@@ -45,7 +45,7 @@ Submission link: [Here](https://cmt3.research.microsoft.com/User/Login?ReturnUrl
 ## Invited Speakers
 
 [João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Porto University  
-[Ágata Alveirinho Dias](http://idl.campus.ciencias.ulisboa.pt/profiles/agata-alveirinho-dias/), Institute of Science and Environment of the University of Saint Joseph (ISE-USJ)  
+[Ágata Alveirinho Dias](http://ise.usj.edu.mo/people/agata-alveirinho-dias/), Institute of Science and Environment of the University of Saint Joseph (ISE-USJ)  
 [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981), ETH Zurich  
 [Gregory Dudek](https://www.cim.mcgill.ca/~dudek/), McGill University  
 [Stefan Williams](https://sydney.edu.au/engineering/people/stefan.williams.php), The University of Sydney  
