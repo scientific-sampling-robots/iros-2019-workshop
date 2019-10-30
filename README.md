@@ -8,26 +8,26 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 
 
 | Time | Talk | Speaker | Description |
-| --- | --- | --- |
-| 8:55 | Introduction and Opening Remarks |
+| --- | --- | --- | --- |
+| 8:55 | Introduction and Opening Remarks |||
 | 9:00 | Invited | Chanyeol Yoo | Decentralised Multi-Robot Active Perception in Outdoor Environments |  
 | 9:35 | Contributed | Genevieve E Flaspohler (MIT) | Information-Guided Robotic Maximum Seek-and-Sample in Partially Observable Continuous Environments |  
 | 9:50 | Contributed | Youngsun Kwon (KAIST) | Adaptive Kernel Inference for Dense and Sharp Occupancy Grids |  
 | 10:00 | Contributed | Nare Karapetyan (University of South Carolina) | Coverage of Rivers with an Autonomous Surface Vehicles | 
-| 10:10 | Invited | Stefan Williams | 
-| 10:45 | Coffee Break and Poster Session |
+| 10:10 | Invited | Stefan Williams |||
+| 10:45 | Coffee Break and Poster Session |||
 | 11:15 | Invited | Ágata Alveirinho Dias | Diving into the unknown: robotics as tools to study the deep-sea |
 | 11:50 | Contributed | Martin J Schuster |  Towards Heterogeneous Robotic Teams for Collaborative Scientific Sampling in Lunar and Planetary Environments |
 | 12:05 | Invited | Thomas Stastny | Monitoring Glaciers Beyond the Horizon |
-| 12:45 |  Lunch Break |
+| 12:45 |  Lunch Break |||
 | 2:00 | Contributed | Alberto Quattrini Li (Dartmouth College) | Computational methods and autonomous robotics systems for modeling and predicting harmful cyanobacterial blooms | 
 | 2:15 | Invited | Koay TeongBeng | Exploring the use of simple robots with informative path planning for complex outdoor environment | 
 | 2:50 | Contributed | Robert F Codd-Downey (York University) | Monitoring Re-Growth of Invasive Plants using an Autonomous Surface Vessel |
 | 3:00 | Contributed | Larkin L Heintzman (Virginia Tech) | Anticipatory Human-Robot Path Planning for Search and Rescue |
 | 3:10 | Invited | Lantao Liu | Multi-Objective Tree Search for Spatiotemporal Informative Planning |
-| 3:45 | Coffee Break and Poster Session |
+| 3:45 | Coffee Break and Poster Session |||
 | 4:30 | Invited | Greg Dudek | Robots in the Wild |   
-| 5:00 | Panel Discussion |
+| 5:00 | Panel Discussion |||
 
 ## Topics of interest for this workshop:
 
