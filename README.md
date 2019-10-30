@@ -14,7 +14,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 | 9:35 | Contributed | [Genevieve E Flaspohler (MIT)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#one) | Information-Guided Robotic Maximum Seek-and-Sample in Partially Observable Continuous Environments |  
 | 9:50 | Contributed | [Youngsun Kwon (KAIST)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#two) | Adaptive Kernel Inference for Dense and Sharp Occupancy Grids |  
 | 10:00 | Contributed | [Nare Karapetyan (U of South Carolina)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#three) | Coverage of Rivers with an Autonomous Surface Vehicles | 
-| 10:10 | Invited | [Stefan Williams (U of Sydney)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#stefan) |||
+| 10:10 | Invited | [Stefan Williams (U of Sydney)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#stefan) ||
 | 10:45 ||| Coffee Break and Poster Session |
 | 11:15 | Invited | [Ágata Alveirinho Dias (USJ)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#agata) | Diving into the unknown: robotics as tools to study the deep-sea |
 | 11:50 | Contributed | [Martin J Schuster (DLR)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#four) |  Towards Heterogeneous Robotic Teams for Collaborative Scientific Sampling in Lunar and Planetary Environments |
