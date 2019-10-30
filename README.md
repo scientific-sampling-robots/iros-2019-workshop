@@ -48,6 +48,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 - Collaborating with domain experts  
 - Interpreting and presenting scientific data 
 
+<!-- 
 ## Invited Speakers
 
 [João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Porto University  
@@ -58,6 +59,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 [Lantao Liu](http://homes.sice.indiana.edu/lantao/), Indiana University - Bloomington  
 [Mandar Chitre](http://www.chitre.net/), Tropical Marine Science Institute and the National University of Singapore  
 [Robert Fitch](https://www.uts.edu.au/staff/robert.fitch), University of Technology, Sydney  
+-->
 <!-- [Christian Katlein](http://katlein.de/), Jacobs University Bremen  -->
 
 
