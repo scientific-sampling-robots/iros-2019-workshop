@@ -7,19 +7,25 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 ## Schedule
 
 
-| Time | Description | Speaker |
+| Time | Talk | Description |
 | --- | --- | --- |
-| 8:55 | Introduction and Opening Remarks |  
-| 9:00 | Invited Speaker Chanyeol Yoo |   
-| 9:45 | Selected Papers |   
-| 10:15 | Coffee Break and Poster Session |    
-| 11:30 | Invited Speaker |   
-| 12:15 | Lunch |   
-| 1:30 |  Invited Speaker |   
-| 2:00 | Selected Papers |   
-| 2:45 | Invited Speaker |
-| 3:30 | Coffee Break and Poster Session |    
-| 4:30 | Panel Discussion |   
+| 8:55 | Introduction and Opening Remarks |  Organizers |  
+| 9:00 | Invited | Chanyeol Yoo - Decentralised Multi-Robot Active Perception in Outdoor Environments |  
+| 9:35 | Contributed | Information-Guided Robotic Maximum Seek-and-Sample in Partially Observable Continuous Environments |  
+| 9:50 | Contributed | Adaptive Kernel Inference for Dense and Sharp Occupancy Grids |  
+| 10:00 | Contributed | Coverage of Rivers with an Autonomous Surface Vehicles | 
+| 10:10 | Invited | Stefan Williams | 
+| 10:45 | | Coffee Break and Poster Session |   
+| 11:15 | Invited Speaker |  Ágata Alveirinho Dias - Diving into the unknown: robotics as tools to study the deep-sea |
+| 12:45 | | Lunch Break |   
+| 2:00 | Contributed | Computational methods and autonomous robotics systems for modeling and predicting harmful cyanobacterial blooms | 
+| 2:15 | Invited | Koay TeongBeng - Exploring the use of simple robots with informative path planning for complex outdoor environment | 
+| 2:50 | Contributed | Monitoring Re-Growth of Invasive Plants using an Autonomous Surface Vessel |
+| 3:00 | Contributed | Anticipatory Human-Robot Path Planning for Search and Rescue |
+| 3:10 | Invited | Lantao Liu - Multi-Objective Tree Search for Spatiotemporal Informative Planning |
+| 3:45 | | Coffee Break and Poster Session | 
+| 4:30 | Invited | Greg Dudek - Robots in the Wild |   
+| 5:00 | Panel Discussion | |  
 
 ## Topics of interest for this workshop:
 
