@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Informed Scientific Sampling in Large-scale Outdoor Environments"
-tagline: "@IROS 2019 Macau \\ Friday, November 8 in Room LG-R20"
+tagline: "@IROS 2019 Macau"
+tagline: "November 8 in Room LG-R20"
 github:
   is_project_page: false
 kramdown:
