@@ -21,7 +21,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 | 12:05 | Invited | [Thomas Stastny (ETH Zurich)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#thomas) | Monitoring Glaciers Beyond the Horizon |
 | 12:45 ||| Lunch Break |
 | 2:00 | Contributed | [Alberto Quattrini Li (Dartmouth College)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#five) | Computational methods and autonomous robotics systems for modeling and predicting harmful cyanobacterial blooms | 
-| 2:15 | Invited | [Koay TeongBeng (NUS)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#koay) | Exploring the use of simple robots with informative path planning for complex outdoor environment | 
+| 2:15 | Invited | [Koay TeongBeng and Rajat Mishra (NUS)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#koay) | Exploring the use of simple robots with informative path planning for complex outdoor environment | 
 | 2:50 | Contributed | [Robert F Codd-Downey (York)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#six) | Monitoring Re-Growth of Invasive Plants using an Autonomous Surface Vessel |
 | 3:00 | Contributed | [Larkin L Heintzman (Virginia Tech)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#seven) | Anticipatory Human-Robot Path Planning for Search and Rescue |
 | 3:10 | Invited | [Lantao Liu (Indiana U)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#lantao) | Multi-Objective Tree Search for Spatiotemporal Informative Planning |
