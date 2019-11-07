@@ -26,7 +26,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 | 3:00 | Contributed | [Larkin L Heintzman (Virginia Tech)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#seven) | Anticipatory Human-Robot Path Planning for Search and Rescue |
 | 3:10 | Invited | [Lantao Liu (Indiana U)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#lantao) | Multi-Objective Tree Search for Spatiotemporal Informative Planning |
 | 3:45 |||  Coffee Break and Poster Session |
-| 4:30 | Invited | [Greg Dudek (McGill)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#greg) | Robots in the Wild |   
+| 4:30 | Invited | [Greg Dudek (McGill)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#greg) | Creating Effective and Useful Robots for Scientific Data Collection |   
 | 5:00 ||| Panel Discussion |
 
 ## Topics of interest for this workshop:
