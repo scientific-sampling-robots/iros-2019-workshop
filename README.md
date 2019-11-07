@@ -11,7 +11,7 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 | --- | --- | --- | --- |
 | 8:55 ||| Introduction and Opening Remarks |
 | 9:00 | Invited | [Chanyeol Yoo (UTS)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#chanyeol) | Decentralised Multi-Robot Active Perception in Outdoor Environments |  
-| 9:35 | Contributed | [Genevieve E Flaspohler (MIT)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#one) | Information-Guided Robotic Maximum Seek-and-Sample in Partially Observable Continuous Environments |  
+| 9:35 | Contributed | [Victoria Preston (MIT)](https://www.csail.mit.edu/person/victoria-preston) | Information-Guided Robotic Maximum Seek-and-Sample in Partially Observable Continuous Environments |  
 | 9:50 | Contributed | [Youngsun Kwon (KAIST)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#two) | Adaptive Kernel Inference for Dense and Sharp Occupancy Grids |  
 | 10:00 | Contributed | [Nare Karapetyan (U of South Carolina)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#three) | Coverage of Rivers with an Autonomous Surface Vehicles | 
 | 10:10 | Invited | [Stefan Williams (U of Sydney)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#stefan) | Challenges in Deploying Robust Autonomy for Robotic Exploration in Marine Environments |
@@ -26,7 +26,8 @@ In this workshop, we aim to discuss recent progress in the field of robotic samp
 | 3:00 | Contributed | [Larkin L Heintzman (Virginia Tech)](https://scientific-sampling-robots.github.io/iros-2019-workshop/contributed.html#seven) | Anticipatory Human-Robot Path Planning for Search and Rescue |
 | 3:10 | Invited | [Lantao Liu (Indiana U)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#lantao) | Multi-Objective Tree Search for Spatiotemporal Informative Planning |
 | 3:45 |||  Coffee Break and Poster Session |
-| 4:30 | Invited | [Greg Dudek (McGill)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#greg) | Creating Effective and Useful Robots for Scientific Data Collection |   
+| 4:15 | Invited | [Greg Dudek (McGill)](https://scientific-sampling-robots.github.io/iros-2019-workshop/speakers.html#greg) | Creating Effective and Useful Robots for Scientific Data Collection |   
+| 4:45 | Activity | Organizers | Collaborative Activity (with prize!) |   
 | 5:00 ||| Panel Discussion |
 
 ## Topics of interest for this workshop:
